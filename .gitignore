@@ -1,0 +1,12 @@
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Backend build output
+backend/target/
+backend/*.log
+
+# Local IDE/system files
+.idea/
+*.iml
+.DS_Store
